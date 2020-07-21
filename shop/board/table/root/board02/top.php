@@ -1,0 +1,1 @@
+<? include $BOARD_FOLDER_NAME."/include/common_top.php"; ?>

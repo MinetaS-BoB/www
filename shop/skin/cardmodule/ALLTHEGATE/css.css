@@ -1,0 +1,67 @@
+img {border:0}
+
+
+BODY {margin:0px 0px 0px 0px; padding:0px 0px 0px 0px;
+     font-family:"µ¸¿ò","µ¸¿òÃ¼"; color: #707070; font-size:12px;line-height: 16px}
+     
+     
+a:active      {font-family : "µ¸¿ò", "Verdana"; color: #707070; text-decoration: none; line-height: 16px;}
+a:link        {font-family : "µ¸¿ò", "Verdana"; color: #707070; text-decoration: none; line-height: 16px;}
+a:visited     {font-family : "µ¸¿ò", "Verdana"; color: #707070; text-decoration: none; line-height: 16px;}
+a:hover       {font-family : "µ¸¿ò", "Verdana"; color: #F38002; text-decoration: none; line-height: 16px;}
+
+
+}
+TABLE {
+	font-family: µ¸¿ò, µ¸¿òÃ¼;
+	font-size: 12px;
+	line-height: 18px;
+	
+
+}
+TABLE.a {font-family:"µ¸¿ò"; font-size: 12px; line-height: 18px; background-color:#18BBB2}
+TABLE.b {font-family:"µ¸¿ò"; font-size: 12px; line-height: 18px; background-color:#4A89AE}
+TABLE.c {font-family:"µ¸¿ò"; font-size: 12px; line-height: 18px; background-color:#C5C5C5}
+TABLE.D {font-family:"µ¸¿ò"; font-size: 12px; line-height: 18px; background-color:#489238}
+TABLE.e {font-family:"µ¸¿ò"; font-size: 12px; line-height: 18px; background-color:#A8A8A8}
+
+
+}
+TD.a1 {font-family:µ¸¿ò; font-size:12px; background-color:#AEE8E6; color:#11837C;}
+TD.a2 {font-family:µ¸¿ò; font-size:12px; background-color:#F2FDFC;}
+TD.a3 {font-family:µ¸¿ò; font-size:12px; background-color:#F2FDFC; color:#11837C; font-weight: bold}
+TD.a4 {font-family:µ¸¿ò; font-size:12px; background-color:#FFFFFF; color:#707070;}
+TD.a5 {font-family:µ¸¿ò; font-size:12px; background-color:#F6F6F6; color:#707070;}
+TD.a6 {font-family:µ¸¿ò; font-size:12px; background-color:#F0F7ED;}
+TD.a7 {font-family:µ¸¿ò; font-size:12px; color:#000000;}
+TD.c1 {font-family:µ¸¿ò; font-size:12px; background-color:#F7F7F7;}
+TD.d1 {font-family:µ¸¿ò; font-size:12px; background-color:#ECF7DF; color:#000000;}
+TD.d2 {font-family:µ¸¿ò; font-size:12px; background-color:#FFFFFF; color:#000000;}
+TD.d3 {font-family:µ¸¿ò; font-size:12px; background-color:#ADD68F; color:#000000;}
+TD.e1 {font-family:µ¸¿ò; font-size:12px; background-color:#92B71E; color:#000000;}
+TD.e2 {font-family:µ¸¿ò; font-size:12px; background-color:#CFE37E; color:#487607; font-weight: bold}
+TD.e3 {font-family:µ¸¿ò; font-size:12px; background-color:#F6FFD2; color:#487607;}
+TD.e4 {font-family:µ¸¿ò; font-size:12px; background-color:#F1F1F1; color:#707070;}
+TD.f1 {font-family:µ¸¿ò; font-size:12px; background-color:#C5E6D8; color:#417C60; font-weight: bold}
+TD.f2 {font-family:µ¸¿ò; font-size:12px; background-color:#EDF9F5; color:#417C60;}
+TD.g1 {font-family:µ¸¿ò; font-size:12px; background-color:#489238;}
+TD.g2{font-family:µ¸¿ò; font-size:12px; background-color:#ADD68F; color:#707070;}
+TD.g3{font-family:µ¸¿ò; font-size:12px; background-color:#ECF7DF; color:#707070;}
+
+
+}
+.formbox    {font: 12px "Verdana", "Gulim";height:20px; width:160px; border: 1 solid #9B9B9B}
+.formbox01    {font: 12px "Verdana", "Gulim";height:20px; width:120px; border: 1 solid #9B9B9B}
+.formbox02    {font: 12px "Verdana", "Gulim";height:20px; width:40px; border: 1 solid #9B9B9B}
+.formbox03    {font: 12px "Verdana", "Gulim";height:20px; width:200px; border: 1 solid #9B9B9B}
+.formbox04    {font: 12px "Verdana", "Gulim";height:20px; width:80px; border: 1 solid #9B9B9B}
+.formbox05    {font: 12px "Verdana", "Gulim";height:20px; width:363px; border: 1 solid #9B9B9B}
+.formbox06    {font: 12px "Verdana", "Gulim";height:20px; width:100px; border: 1 solid #9B9B9B}
+.formbox07    {font: 12px "Verdana", "Gulim";height:20px; width:70px; border: 1 solid #9B9B9B}
+.formbox08    {font: 12px "Verdana", "Gulim";height:20px; width:35px; border: 1 solid #9B9B9B}
+.formbox09    {font: 12px "Verdana", "Gulim";height:20px; width:300px; border: 1 solid #9B9B9B}
+.formbox10    {font: 12px "Verdana", "Gulim";height:20px; width:344px; border: 1 solid #9B9B9B}
+.formbox11    {font: 12px "Verdana", "Gulim";height:20px; width:260px; border: 1 solid #9B9B9B}
+.formbox12    {font: 12px "Verdana", "Gulim";height:20px; width:170px; border: 1 solid #9B9B9B}
+.formbox13    {font: 12px "Verdana", "Gulim";height:20px; width:208px; border: 1 solid #9B9B9B}
+

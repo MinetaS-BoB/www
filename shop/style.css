@@ -1,0 +1,32 @@
+body, table, tr, td, select, textarea, input{ 
+	font-family:'Malgun Gothic', 'verdana';
+	line-height: 18px;
+}
+
+
+.sub_menu {
+	text-align: right;
+	font-weight: bold;
+	color: #383838;
+	font-size: 12px;
+}
+
+.align_left {
+	text-align: left;
+}
+
+.align_right {
+	text-align: right;
+}
+
+.sub_menu_top {
+}
+
+.sell_list {
+	font-size: 12px;
+
+}
+
+.index_help {
+	padding-left:10px;
+}

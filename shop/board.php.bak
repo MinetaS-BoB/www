@@ -1,0 +1,17 @@
+<?
+/*
+<meta http-equiv="Content-Type" content="text/html; charset=euc-kr">
+*/
+header('P3P: CP="NOI CURa ADMa DEVa TAIa OUR DELa BUS IND PHY ONL UNI COM NAV INT DEM PRE"');
+header("Expires: Mon, 26 Jul 1997 05:00:00 GMT");
+header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
+header("Cache-Control: no-store, no-cache, must-revalidate");
+header("Cache-Control: post-check=0, pre-check=0", false);
+header("Pragma: no-cache");
+
+include  "./config/db_info.php";
+include  "./config/db_connect.php";
+
+echo 'board.php backup File';
+
+?>
